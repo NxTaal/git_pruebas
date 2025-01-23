@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Estoy modificando el archivo 1, modificamos.
+=======
+Estoy modificando el archivo 1
+>>>>>>> parent of 1bdbedc (Update archivo1.txt)
